@@ -1,0 +1,26 @@
+p {
+    color: rgb(13, 13, 56);
+    font-size: 25px;
+    font-family: "Trade Winds";
+}
+.bg {
+    background-image: linear-gradient(to right, rgb(124, 84, 11), rgb(236, 253, 77), rgb(124, 84, 11));
+}
+.jbg {
+    background-image: url(img/hops.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    height: 230px;
+    width: 300px;
+}
+.float {
+    float: right;
+}
+.row {
+    padding-top: 20px;
+}
+.btn {
+    color: blue;
+}
